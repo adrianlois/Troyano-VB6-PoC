@@ -1,6 +1,8 @@
 # Troyano-Simple-VB6-PoC
 Prueba de concepto de un troyano simple desarrollado en Visual Basic 6.0
 
+▶ **Vídeo PoC**: https://youtu.be/HuanrTRfKQI
+
 Usando una conexión directa cliente/servidor con el componente Winsock Control a un equipo víctima podemos:
 - Apagar
 - Reiniciar

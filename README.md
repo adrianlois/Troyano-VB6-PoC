@@ -7,7 +7,7 @@ Usando una conexión directa cliente/servidor con el componente Winsock Control 
 - Apagar
 - Reiniciar
 - Enviar mensajes
-- Registrar pulsaciones de teclado (Keylooger)
+- Registrar pulsaciones de teclado (Keylogger)
 
 Por defecto el puerto de escucha para el servidor es el 4455. 
 

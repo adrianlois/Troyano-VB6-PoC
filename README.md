@@ -1,4 +1,4 @@
-# Troyano-Simple-VB6-PoC
+# Troyano-VB6-PoC
 Prueba de concepto de un troyano simple desarrollado en Visual Basic 6.0
 
 ▶ **Vídeo PoC**: https://youtu.be/HuanrTRfKQI

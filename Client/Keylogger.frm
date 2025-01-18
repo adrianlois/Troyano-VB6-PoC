@@ -63,7 +63,7 @@ If CommonDialog1.FileName = "" Then
 Exit Sub
 Else
 If Text1 = "" Then
-MsgBox "No hay nada escrito capturado por teclado", vbExclamation, "by adrianlois"
+MsgBox "No hay nada escrito capturado por teclado", vbExclamation
 Exit Sub
 End If
 

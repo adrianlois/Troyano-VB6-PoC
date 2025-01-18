@@ -1,7 +1,7 @@
 VERSION 5.00
 Object = "{248DD890-BB45-11CF-9ABC-0080C7E7B78D}#1.0#0"; "MSWINSCK.OCX"
 Begin VB.Form Form1 
-   Caption         =   "Servidor by adrianlois"
+   Caption         =   "Servidor"
    ClientHeight    =   1755
    ClientLeft      =   60
    ClientTop       =   450

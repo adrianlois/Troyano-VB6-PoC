@@ -1,7 +1,7 @@
 VERSION 5.00
 Object = "{248DD890-BB45-11CF-9ABC-0080C7E7B78D}#1.0#0"; "MSWINSCK.OCX"
 Begin VB.Form Form1 
-   Caption         =   "Cliente by adrianlois"
+   Caption         =   "Cliente"
    ClientHeight    =   3345
    ClientLeft      =   60
    ClientTop       =   450
@@ -154,9 +154,8 @@ End Sub
 
 Private Sub Command2_Click()
 Dim inResponse As Integer
-intResponse = MsgBox("¿Estas seguro que deseas desconectarte?", _
-vbYesNo + vbQuestion, _
-"by adrianlois")
+intResponse = MsgBox("Â¿Estas seguro que deseas desconectarte?", _
+vbYesNo + vbQuestion)
 If intResponse = vbYes Then
 Sock1.Close
 Form1.Caption = "No conectado"
